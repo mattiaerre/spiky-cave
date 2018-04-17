@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-netlify-cms",
+  "name": "spiky-cave",
   "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "author": "Austin Green",
   "dependencies": {
     "bulma": "^0.6.0",
@@ -36,5 +36,13 @@
   },
   "devDependencies": {
     "prettier": "^1.7.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiaerre/spiky-cave.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattiaerre/spiky-cave/issues"
+  },
+  "homepage": "https://github.com/mattiaerre/spiky-cave#readme"
 }
