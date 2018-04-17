@@ -1,18 +1,8 @@
 import React from 'react';
+import './footer.scss';
 
 const Footer = () => {
-  return (
-    <p
-      style={{
-        backgroundColor: '#333',
-        color: '#aaa',
-        fontSize: 'small',
-        padding: '0.5em'
-      }}
-    >
-      This is my awesome Footer!
-    </p>
-  );
+  return <p className="Footer__container">This is my awesome Footer!</p>;
 };
 
 export default Footer;
